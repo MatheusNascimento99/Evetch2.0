@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\ivan\source\repos\versao7\versao7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-10-02T19:21:13.454</Modified>
+      <Modified>2024-10-02T20:05:32.741</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\ivan\source\repos\versao7\versao7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-10-02T19:21:13.046</Modified>
+      <Modified>2024-10-02T20:03:43.178</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ivan\source\repos\versao7\versao7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\versao7.runtimeconfig.json">
       <PackagePath>versao7.runtimeconfig.json</PackagePath>
@@ -44,15 +44,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ivan\source\repos\versao7\versao7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\versao7.dll">
       <PackagePath>versao7.dll</PackagePath>
-      <Modified>2024-10-02T19:21:11.478</Modified>
+      <Modified>2024-10-02T20:05:31.697</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ivan\source\repos\versao7\versao7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>versao7.exe</PackagePath>
-      <Modified>2024-10-02T19:21:11.491</Modified>
+      <Modified>2024-10-02T20:05:31.702</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ivan\source\repos\versao7\versao7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\versao7.deps.json">
       <PackagePath>versao7.deps.json</PackagePath>
-      <Modified>2024-10-02T19:21:12.733</Modified>
+      <Modified>2024-10-02T20:03:42.895</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ivan\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.20\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
