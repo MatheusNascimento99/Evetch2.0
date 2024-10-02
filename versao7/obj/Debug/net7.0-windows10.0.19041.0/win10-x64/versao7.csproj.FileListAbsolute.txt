@@ -322,4 +322,3 @@ C:\Users\ivan\source\repos\versao7\versao7\obj\Debug\net7.0-windows10.0.19041.0\
 C:\Users\ivan\source\repos\versao7\versao7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\ivan\source\repos\versao7\versao7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\ivan\source\repos\versao7\versao7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-C:\Users\ivan\source\repos\versao7\versao7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\versao7.sourcelink.json

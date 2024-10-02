@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("versao7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e28d562a6d4e507aba60f00498a4963d6df952ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("versao7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("versao7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
