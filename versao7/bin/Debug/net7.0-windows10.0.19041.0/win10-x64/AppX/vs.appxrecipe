@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\ivan\source\repos\versao7\versao7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-10-02T19:21:13.454</Modified>
+      <Modified>2024-10-02T19:41:35.005</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ivan\source\repos\versao7\versao7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\versao7.dll">
       <PackagePath>versao7.dll</PackagePath>
-      <Modified>2024-10-02T19:21:11.478</Modified>
+      <Modified>2024-10-02T19:41:33.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ivan\source\repos\versao7\versao7\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>versao7.exe</PackagePath>
-      <Modified>2024-10-02T19:21:11.491</Modified>
+      <Modified>2024-10-02T19:41:33.635</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ivan\source\repos\versao7\versao7\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\versao7.deps.json">
       <PackagePath>versao7.deps.json</PackagePath>
